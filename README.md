@@ -1,21 +1,34 @@
-# 🐍 Snake Water Gun Game
+echo "# 🐍 Snake Water Gun Game
 
-This is a simple terminal-based game written in Python. It simulates the classic Snake-Water-Gun game (similar to Rock-Paper-Scissors).
-
-## 📂 Files Included
-
-- `main.py`: Full version with explicit conditions
-- `main_shortcut.py`: Cleaned-up version using arithmetic logic
+A simple Python implementation of the classic Snake-Water-Gun game — a fun twist on Rock-Paper-Scissors.
 
 ## 🎮 How to Play
+- Snake drinks Water → Snake wins
+- Water douses Gun → Water wins
+- Gun shoots Snake → Gun wins
+- Same choice → Draw
 
-- `s` for Snake
-- `w` for Water
-- `g` for Gun
+## 💻 Built With
+- Python 3
+- Random module
 
-## ⚙️ How to Run
+## 🚀 How to Run
+1. Clone the repo:
+   \`\`\`bash
+   git clone https://github.com/surya-3535/snake_water_gun_game.git
+   \`\`\`
+2. Run the game:
+   \`\`\`bash
+   python main.py
+   \`\`\`
 
-```bash
-python main.py
-# or
-python main_shortcut.py
+## 🧠 Skills Demonstrated
+- Python basics (input, conditionals, dictionaries)
+- Randomization
+- Command-line interaction
+
+## ✍️ Author
+**Suryaprakash Bandoju**
+
+GitHub: [surya-3535](https://github.com/surya-3535)
+" > README.md
